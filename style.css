@@ -1,4 +1,57 @@
 body{
-	background-color: white;
-	font-size: 20pt;
+	background-color: azure;
+	text-align: center;
+}
+.btn{
+	text-decoration:none;
+	font-size:3.5rem;
+	color: white;
+	padding: 10px 20px 10px 20px;
+	margin: 20px;
+	display: inline-block;
+	border-radius: 10px;
+	transition: all 0.1s;
+	text-shadow: 0px -3px rgba(0, 0, 0, 0.44);
+	font-family: 'Wendy One', sans-serif;
+	text-align: center;
+}
+.btn.home{
+	background-color: #25bfb9;
+	border-bottom:5px solid #1fb4ae;
+}
+.btn:active{
+	transform: translateY(3px);
+}
+.btn.home:active{
+	border-bottom:2px solid #1fb4ae;
+}
+h1{
+	text-align: center;
+	border-bottom: 1px solid rgba(255, 255, 255, 0);
+}
+.btn.info{
+	background-color: #52d886;
+	border-bottom: 5px solid #47cb7a;
+	font-size: 2.4rem;
+}
+.btn.admin{
+	background-color: #52d886;
+	border-bottom: 5px solid #47cb7a;
+	font-size: 2.4rem;
+}
+.btn.state{
+	background-color: #52d886;
+	border-bottom: 5px solid #47cb7a;
+	font-size: 2.4rem;
+}
+
+.btn.site{
+	background-color: #52d886;
+	border-bottom: 5px solid #47cb7a;
+	font-size: 2.4rem;
+}
+.btn.balance{
+	background-color: #52d886;
+	border-bottom: 5px solid #47cb7a;
+	font-size: 2.4rem;
 }
