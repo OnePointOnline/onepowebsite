@@ -15,6 +15,7 @@ body{
 	font-family: 'Wendy One', sans-serif;
 	text-align: center;
 }
+
 .btn.home{
 	background-color: #25bfb9;
 	border-bottom:5px solid #1fb4ae;
@@ -29,6 +30,7 @@ h1{
 	text-align: center;
 	border-bottom: 1px solid rgba(255, 255, 255, 0);
 }
+
 .btn.info{
 	background-color: #52d886;
 	border-bottom: 5px solid #47cb7a;

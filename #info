@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+	<head>
+		<link href="https://fonts.googleapis.com/css?family=Wendy+One" rel="stylesheet">
+		<link rel="stylesheet" href="style.css">
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<h1>
+			<a class="btn home" href="#Home">OnePoint</a>
+		</h1>
+		<h2>
+			<a class="btn info" href="#info">서버소개</a>
+			<a class="btn admin" href="#admin">관리자소개</a>
+			<a class="btn state" href="#state">서버상태</a>
+			<a class="btn balance" href="#baltop">돈랭킹</a>
+			<a class="btn site" href="#site">관련사이트</a>
+		</h2>
+		<h3>
+			페이바보
+		</h3>
+	</body>
+</html>
